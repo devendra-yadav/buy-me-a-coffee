@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Buy me a coffee (Donate developer a coffee)
+## This is backend code
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+One can donate to the developer a coffee (in ETH form)
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
