@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Buy Me a Coffee project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This is a dAPP with following features: -
+1. It will allow users to buy coffee for the contract developer by donating some ETHs. 
+2. Users will be able to send messages as Memo along with the ETHs.
+3. Contract owner will be able to withdraw all the ETHs that are sent by different users.
+4. Users will be able to see all the memos sent by different users.
